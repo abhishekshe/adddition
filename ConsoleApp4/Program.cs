@@ -17,6 +17,7 @@ namespace ConsoleApp4
 
                 
             }
+            Console.WriteLine("hi");
             Console.WriteLine(arrr);
         }
     }
